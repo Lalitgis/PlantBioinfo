@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+bioinfo-env/
+
+# Bioinformatics data
+*.fastq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.cram
+*.vcf.gz
+
+# Temporary files
+*.tmp
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+
